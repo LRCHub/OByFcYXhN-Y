@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "エスパー",
+  "base_artist": "ミツメ",
+  "createdAt": "2026-03-06T08:00:45.520007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エスパー",
+      "artist": "mitsume",
+      "has_synced": true,
+      "path": "select/01_エスパー_mitsume.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エスパー",
+      "artist": "ミツメ",
+      "has_synced": true,
+      "path": "select/02_エスパー_ミツメ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エスパー",
+      "artist": "ミツメ",
+      "has_synced": false,
+      "path": "select/pl_01_エスパー_ミツメ.txt"
+    }
+  ]
+}
